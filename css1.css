@@ -1,0 +1,88 @@
+#home{
+    
+    background:  url(./images/home2.png),center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: right;
+    height: 40%;
+    margin-bottom:2ch;
+    
+    
+   
+   
+    
+
+}
+
+h1{
+    text-align: center;
+}
+
+#home>p{
+    color: rgb(240, 232, 13);
+    /* text-align: right; */
+    font-size: 0.3in;
+    margin: 2pc;
+    padding-right: 10pc;
+}
+#home>button{
+   background-color: blanchedalmond;
+}
+
+#about{margin: 0; padding: 0;}
+
+banner{
+    position:relative;
+    width: 90%; 
+    margin: 0 auto;}
+
+/*.heading{
+color: azure;position: absolute;
+ top: 50%;width: 100%;
+  text-align: center; 
+  font-size: 3rem; 
+  font-style: italic; 
+  font-weight: normal;
+   font-variant: initial;}
+
+    
+}*/
+
+body{font-size: 10px;}
+.banner img{width: 100%}
+
+a{
+    font-size:large;
+}
+extra::after{
+    display: block;
+}
+
+.extra:hover{
+   background-color: yellow;
+   color: brown;
+   
+}
+li{
+    color: black;
+}
+.card-text{
+    font-size: medium;
+    color: black;
+
+}
+card>img{
+    height: 9%;
+    width: 9%;
+}
+.heading{
+    font-size: 45px;
+    text-align: right;
+}
+.card{
+    margin: 3px;
+}
+
+
+
+ 
